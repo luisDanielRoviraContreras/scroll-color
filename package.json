@@ -1,17 +1,16 @@
 {
   "name": "scroll-color",
   "main": "./lib/scroll-color",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "cambia el color del scroll a tu gusto",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/luisDanielRoviraContreras/scroll-color",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "jquery":"^3.2.1"
+    "jquery": "^3.2.1"
   },
   "configSchema": {
     "ScrollBackground": {
