@@ -2,8 +2,13 @@
   "name": "scroll-color",
   "main": "./lib/scroll-color",
   "version": "0.1.0",
-  "description": "cambia el color del scroll a tu gusto",
-  "keywords": [],
+  "description": "Cambia el color del scroll a tu gusto",
+  "keywords": [
+    "scroll",
+    "color",
+    "style",
+    "scroll-bar"
+  ],
   "repository": "https://github.com/luisDanielRoviraContreras/scroll-color",
   "license": "MIT",
   "engines": {
