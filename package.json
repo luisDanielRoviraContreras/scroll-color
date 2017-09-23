@@ -2,7 +2,7 @@
   "name": "scroll-color",
   "main": "./lib/scroll-color",
   "version": "0.2.0",
-  "description": "Cambia el color del scroll a tu gusto",
+  "description": "change the color of the scroll to your liking",
   "keywords": [
     "scroll",
     "color",
