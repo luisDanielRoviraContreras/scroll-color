@@ -1,7 +1,7 @@
 {
   "name": "scroll-color",
   "main": "./lib/scroll-color",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "change the color of the scroll to your liking",
   "keywords": [
     "scroll",
